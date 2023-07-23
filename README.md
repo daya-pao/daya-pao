@@ -1,8 +1,10 @@
 <div id="header"align="center">
   <h1 align="center">Hola 👋 me presento soy Dayana Arevalo</h1>
-  <h3 align="center">Hola a todos me complace estar aquí para compartir mi 
+  <h3 align="">Hola a todos me complace estar aquí para compartir mi 
    pasión por la programación 💻 ,Mi nombre es Dayana Paola Arevalo Mendoza 
    y actualmente estoy estudiando programación con gran entusiasmo.</h3> 
+ 
+
   <h3 align="left">Conéctate conmigo:</h3>
 </div>
 
