@@ -29,7 +29,8 @@ Soy Dayana Paola, apasionada por la calidad de software, el análisis funcional 
 
 <img align="right" alt="codign" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 📫 Cómo contactarme **dayana06052002@gmail.com**
+- 📫 Cómo contactarme **dyapao2017@gmail.com**
+**dayana06052002@gmail.com**
 
 
 <h3 align="left">Conéctate conmigo:</h3>
