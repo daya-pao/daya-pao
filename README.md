@@ -15,7 +15,7 @@
 ✔Apasionada Analista y Desarrolladora Software**🥰<br>
 ✔Actualmente estoy aprendiendo sobre aprendizaje profundo  Automatización (Selenium)**<br>
 ✔Pregúntame lo que quieras, si estoy vivo a cualquier hora😉<br>
-✔Dato curioso:El primer "bug" en programacion fue una polilla real atrapada en una computadora en 1947 * 😎<br><br><br><
+✔Dato curioso:El primer "bug" en programacion fue una polilla real atrapada en una computadora en 1947 * 😎<br><br><br>
 </div>
 
 <div align="left">
